@@ -9,13 +9,3 @@
 * six
 
 
-<details>
-  <summary>file</summary>
-
-  1. file1
-  2. file 2
-     1.file 2.0
-     2.file 2.1
-  *__this is drop down__*
-
-</details>
